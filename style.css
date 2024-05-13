@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #e0f7fa;
+    background-color: hsl(189, 88%, 50%);
     /* Light cyan */
     text-align: center;
     margin: 0;
@@ -70,4 +70,9 @@ div.content {
     padding-top: 20px;
     border-top: 2px dashed #00796b;
     /* Teal dashed border for separation */
+}
+
+img{
+    width: 400px;
+    height: 600px;;
 }
